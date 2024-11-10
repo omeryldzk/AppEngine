@@ -2,9 +2,6 @@
 appengine-generated/
 # virtual env folder
 env/
-# configuration files
-*.txt
-*.yaml
 # OS generated files #
 .DS_Store
 .DS_Store?
